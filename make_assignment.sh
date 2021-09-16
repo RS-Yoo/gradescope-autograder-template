@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # CHANGE THESE FOR YOUR REPO!
-GITHUB_REPO='git@github.com:mnoukhov/gradescope-autograder-template.git'
+GITHUB_REPO='git@github.com:RS-Yoo/gradescope-autograder-template.git'
 REPO_NAME="gradescope-autograder-template"
 
 
